@@ -22,7 +22,7 @@
 }
 
 body {
-  background-color: green;
+  background-color: #43464B;
 }
 
 section {
@@ -80,12 +80,12 @@ section {
 
 .hero .wrapper h2 {
   font-size: 28px;
-  font-weight: 200;
+  font-weight: 400;
 }
 
 .hero .wrapper h3 {
   font-size: 20px;
-  font-weight: 200;
+  font-weight: 400;
   padding-bottom: 35px;
 }
 

@@ -37,3 +37,10 @@ Our boilerplate is written entirely in Jekyll, which GitHub automatically compil
 - GitHub's variant of Jekyll doesn't allow custom plugins. We can't accept Jekyll plugins for this reason.
 - Please ensure you have the correct permissions inside all of your PRs.
 - Before creating a PR, it would be better if you created a GitHub Issue explaining the contribution. This isn't required, but advised.
+
+
+##TODO
+- change readme
+- change css to match theme
+- hook front end to a back end
+- is this template the easiest way?
