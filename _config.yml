@@ -10,7 +10,7 @@ url: "https://raywillett.github.io/mlh-hackathon-boilerplate"
 
 # The ability to use custom themes.
 style:
-  theme:
+  theme: "emu"
 
 # This will help you track who's visiting your website.
 tracking:
